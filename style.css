@@ -4,6 +4,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #141825;
 }
 
 .cube {
@@ -24,6 +25,7 @@ body {
     height: calc(var(--totalsize) - 10px);
     width: calc(var(--totalsize) - 10px);
     position: absolute;
+    box-shadow: 0px 0px 50px greenyellow;
 }
 
 .side {
