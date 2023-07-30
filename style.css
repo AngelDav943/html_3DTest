@@ -9,7 +9,7 @@ body {
 
 .cube {
     --orientation: 30deg;
-    --perspective: 100em;
+    --perspective: none;
 
     --totalsize: 10em;
     --size: 5em;
